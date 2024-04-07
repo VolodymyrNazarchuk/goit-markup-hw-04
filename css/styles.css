@@ -124,15 +124,8 @@ img{
         border-radius: 2px;
         height: 4px;
         width: 100%;
-        visibility: hidden;
 }
 
-.current:hover::after,
-.current:active::after,
-.current:focus::after{
-
-    visibility: visible;
-}
 .header-menu-link:hover,
 .header-menu-link:active,
 .header-menu-link:focus {
